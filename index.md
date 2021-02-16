@@ -1,12 +1,52 @@
-## Welcome to GitHub Pages
+## Welcome to Juliet's World
 
-You can use the [editor on GitHub](https://github.com/asdfghjuliet/me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! I'm Juliet! This is me. :) I'm not sure what to post on here, photos of where I've been, photos of myself, IDK. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Random Travel Photos
 
-### Markdown
+Here are some Random photos from a road trip. I need to work on this blog, any suggestions?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+![My helpful screenshot](https://raw.githubusercontent.com/asdfghjuliet/me/gh-pages/Travel1.jpg)
+
+
+![My helpful screenshot](https://raw.githubusercontent.com/asdfghjuliet/me/gh-pages/Travel10.jpg)
+
+
+![My helpful screenshot](https://raw.githubusercontent.com/asdfghjuliet/me/gh-pages/Travel11.jpg)
+
+
+#![My helpful screenshot](https://raw.githubusercontent.com/asdfghjuliet/me/gh-pages/Travel12.jpg)
+
+
+![My helpful screenshot](https://raw.githubusercontent.com/asdfghjuliet/me/gh-pages/Travel2.jpg)
+
+
+![My helpful screenshot](https://raw.githubusercontent.com/asdfghjuliet/me/gh-pages/Travel3.jpg)
+
+
+![My helpful screenshot](https://raw.githubusercontent.com/asdfghjuliet/me/gh-pages/Travel4.jpg)
+
+
+![My helpful screenshot](https://raw.githubusercontent.com/asdfghjuliet/me/gh-pages/Travel5.jpg)
+
+
+#![My helpful screenshot](https://raw.githubusercontent.com/asdfghjuliet/me/gh-pages/Travel6.jpg)
+
+
+![My helpful screenshot](https://raw.githubusercontent.com/asdfghjuliet/me/gh-pages/Travel7.jpg)
+
+
+![My helpful screenshot](https://raw.githubusercontent.com/asdfghjuliet/me/gh-pages/Travel8.jpg)
+
+
+![My helpful screenshot](https://raw.githubusercontent.com/asdfghjuliet/me/gh-pages/Travel9.jpg)
+
+
+![My helpful screenshot](https://raw.githubusercontent.com/asdfghjuliet/me/gh-pages/Travel10.jpg)
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +66,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asdfghjuliet/me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thanks for reading! <3
