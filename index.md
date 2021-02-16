@@ -2,6 +2,12 @@
 
 Hi! I'm Juliet! This is me. :) I'm not sure what to post on here, photos of where I've been, photos of myself, IDK. 
 
+
+This is me!!
+
+![My helpful screenshot](https://raw.githubusercontent.com/asdfghjuliet/me/gh-pages/img_1943.jpg)
+
+
 ### Random Travel Photos
 
 Here are some Random photos from a road trip. I need to work on this blog, any suggestions?
